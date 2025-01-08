@@ -1,2 +1,3 @@
-# bdl5-2024-final-project
-Final ML project for Vodafone BigDataLab 5 course (https://www.bigdatalab.com.ua)
+# Vodafone BigDataLab 5 final project (2024)
+This repository contains source files of my graduation project while taking part in Vodafone BigDataLab courses.
+The task was to train a classification model to predict Vodafone abonents churn.
